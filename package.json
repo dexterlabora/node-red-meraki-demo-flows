@@ -1,0 +1,12 @@
+{
+    "name": "meraki-demo-nr",
+    "description": "Collection of Meraki API demo flows",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "merakidemo.json",
+            "credentialsFile": "merakidemo_cred.json"
+        }
+    }
+}
